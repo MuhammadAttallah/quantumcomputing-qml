@@ -2,6 +2,6 @@
 
 ##### Qiskit
 
-From Qubits to QML
+##### Pulse
 
 
