@@ -3,3 +3,5 @@ Getting Started with OpenPulse
 Qiskit Pulse programs give you more control than QuantumCircuit. At this level, you can specify the exact time dynamics of the input signals across all input channels. 
 Most quantum algorithm can be described with circuits alone using gate operations -- typically, it's when you want to apply error mitigation techniques or 
 characterize a time-dependent quality of a quantum system that pulse-level control becomes useful.
+
+https://qiskit.org/documentation/apidoc/pulse.html
